@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/(pages)/about/page": "app/(pages)/about/page.js",
+  "/(pages)/cookies/page": "app/(pages)/cookies/page.js",
+  "/api/cookie/get/route": "app/api/cookie/get/route.js",
+  "/api/cookie/set/route": "app/api/cookie/set/route.js"
+}
